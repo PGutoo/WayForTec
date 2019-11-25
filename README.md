@@ -1,2 +1,0 @@
-# WayForTec
-Created with CodeSandbox

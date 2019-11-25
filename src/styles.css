@@ -1,0 +1,21 @@
+body,
+ul,
+p {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2rem;
+  font-family: Arial;
+}
+.img1 {
+  border-radius: 5em;
+}
+.item {
+  width: 90em;
+}
+
+hr{
+  border-color: #4F76E8;
+  border-width: 0.1em;
+  width: 65em;
+}
